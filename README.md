@@ -1,6 +1,3 @@
-# hello-world
-Just a new repository
+## Welcome to Github Pages
 
-Hey Fellas!
-
-Refansa was here, i created this repository just for the beginning of an introduction to GitHub.
+You can use the [Editor on GitHub]
